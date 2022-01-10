@@ -1,0 +1,7 @@
+echo "# Capstone_Project_IBM_DS0720EN" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mrcommodity/Capstone_Project_IBM_DS0720EN.git
+git push -u origin main
